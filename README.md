@@ -19,4 +19,4 @@ RC Airplane Project for Hack Club Blueprint
   * Allow future upgrades (stabilization, aerobatics)
 
   Budget
-  * Total cost: ~113 USD (including shipping)
+  * Total cost: ~115 USD
