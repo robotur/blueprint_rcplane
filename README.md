@@ -10,7 +10,7 @@ RC Airplane Project for Hack Club Blueprint
   * 3S 11.1V 850mAh LiPo battery
   * FlySky FS-CT6B 6-channel transmitter and receiver
   * MG90S metal-gear micro servos (x3)
-  * 5x3 EP propeller
+  * 6.3x3.15 propeller
 
   Goals
   * Achieve stable manual flight
@@ -19,4 +19,4 @@ RC Airplane Project for Hack Club Blueprint
   * Allow future upgrades (stabilization, aerobatics)
 
   Budget
-  * Total cost: ~115 USD
+  * Total cost: ~140 USD
