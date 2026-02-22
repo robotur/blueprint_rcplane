@@ -9,7 +9,7 @@ RC Airplane Project for Hack Club Blueprint
   * 30A ESC
   * 3S 11.1V 850mAh LiPo battery
   * FlySky FS-CT6B 6-channel transmitter and receiver
-  * MG90S metal-gear micro servos (x2)
+  * MG90S metal-gear micro servos (x3)
   * 6.3x3.15 propeller
 
   Goals
