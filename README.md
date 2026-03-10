@@ -1,5 +1,7 @@
 RC Airplane Project for Hack Club Blueprint
 
+[CANCELLED PROJECT]
+
   Overview
   * A low-cost fixed-wing RC airplane designed around an MT2204 2300KV brushless motor
   * Focused on learning aerodynamics, propulsion sizing, and RC electronics on a budget
